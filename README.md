@@ -17,3 +17,4 @@ add this to the website you are creating to use code from animate.css
 free templates :
   https://www.creative-tim.com/templates/free
   
+  https://zerotomastery.io/resources/
