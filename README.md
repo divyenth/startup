@@ -27,3 +27,5 @@ $ git pull origin master --allow-unrelated-histories //syc local repo to github
  
  git push -u origin master //do it for the first push
  
+ logo creater:
+ https://hatchful.shopify.com/
