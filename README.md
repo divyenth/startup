@@ -18,3 +18,12 @@ free templates :
   https://www.creative-tim.com/templates/free
   
   https://zerotomastery.io/resources/
+
+gie error: "refusing to merge unrelated history "
+
+$ git pull origin master --allow-unrelated-histories //syc local repo to github
+ now do git push
+ or
+ 
+ git push -u origin master //do it for the first push
+ 
